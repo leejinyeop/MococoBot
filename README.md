@@ -1,0 +1,2 @@
+# MococoBot
+Discord MococoBot

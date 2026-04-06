@@ -270,7 +270,7 @@ class StoveProfileIssueModal(discord.ui.Modal):
         await _handle_issue_challenge(interaction, stove_profile_value, self.source_message_id)
 
 
-class StoveConnectView(discord.ui.DesignerView):
+class StoveConnectView(discord.ui.View):
     def __init__(
         self,
         *,
